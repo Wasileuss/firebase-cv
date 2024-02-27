@@ -1,0 +1,38 @@
+[
+    {
+        "title": "White Collar / HTML, CSS, JavaScript",
+        "href": "https://white-collar.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    },
+    {
+        "title": "Euphoria / HTML, SCSS, JavaScript",
+        "href": "https://euphoria-shop.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    },
+    {
+        "title": "Pretty Stones / HTML, SCSS, JavaScript",
+        "href": "https://pretty-stones.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    },
+    {
+        "title": "React Multi-App / HTML, CSS, JavaScript, React",
+        "href": "https://react-multi-app.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    },
+    {
+        "title": "WebStudio / HTML, CSS, JavaScript",
+        "href": "https://web-studio-new.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    },
+    {
+        "title": "Freedom Studios Academy / HTML, CSS",
+        "href": "https://freedom-studios-academy.netlify.app/",
+        "target": "_blank",
+        "rel": "noreferrer"
+    }
+]

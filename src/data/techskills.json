@@ -1,0 +1,32 @@
+[
+    {
+        "tech": "HTML, CSS, SCSS"
+    },
+    {
+        "tech": "JavaScript, React, Redux, Mobx"
+    },
+    {
+        "tech": "Webpack, Gulp"
+    },
+    {
+        "tech": "Figma"
+    },
+    {
+        "tech": "VSCode"
+    },
+    {
+        "tech": "Git, GitHub"
+    },
+    {
+        "tech": "SQL, MySQL"
+    },
+    {
+        "tech": "JIRA, TestRail, Mantis, TestLink"
+    },
+    {
+        "tech": "SDLC, STLC"
+    },
+    {
+        "tech": "Agile (Scrum, Kanban)"
+    }
+]
